@@ -6,5 +6,6 @@
 ## Cursos e Treinamentos:
 ### AWS
 * [**AWS CLI** ](https://github.com/jonascesconetto/aws-cli-userdata)
-* [**AWS Code Commite**](https://github.com/jonascesconetto/aws-code-commit)
+* [**AWS Code Commit**](https://github.com/jonascesconetto/aws-code-commit)
 * [**AWS Code Deploy**](https://github.com/jonascesconetto/aws-code-deploy)
+* [**AWS Code Pipeline**](https://github.com/jonascesconetto/aws-code-pipeline)
